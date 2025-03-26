@@ -1,7 +1,5 @@
 let template = document.querySelector('#message-template').content;
 
-// let textTemplate = template.querySelector('.chat-message-text');
-
 let formBut = document.querySelector('.chat-form-button');
 
 let chat = document.querySelector('.chat-content');
